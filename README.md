@@ -33,3 +33,32 @@
 2. Open the model file:  
    ```bash
    /models/Flexibac.alp
+3. Run ▶ and observe the simulation results (statistics displayed at the end).
+   
+---
+
+## 📂 Repository Structure
+
+- /models → AnyLogic models
+- /src → auxiliary code (agents, functions, scripts)
+- /docs → 📄 Full Report (PDF)
+- /assets → images & SysML diagrams
+- /results → simulation outputs
+
+---
+
+## 🔮 Future Improvements
+
+- ✅ Optimize cart management strategy
+- ✅ Test on more instances (beyond Nc_5_50_10_1)
+- ✅ Reduce lost boxes during simulation
+- 🔄 Compare with alternative approaches (heuristics, optimization methods)
+
+---
+
+## 🙌 Acknowledgments
+
+- Developed for the IMIC’25 Challenge, with support from:
+- University of Lorraine
+- CRAN, CNRS UMR 7039
+- Industrial collaboration with La Poste & University of Nantes
