@@ -56,7 +56,7 @@
 
 ## 🙌 Remerciements
 
-- Projet réalisé dans le cadre du Concours IMIC’25 avec le soutien de :
+Projet réalisé dans le cadre du Concours IMIC’25 avec le soutien de :
 - Université de Lorraine
 - CRAN, CNRS UMR 7039
 - Collaboration industrielle avec La Poste & Université de Nantes
