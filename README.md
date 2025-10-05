@@ -1,31 +1,35 @@
-# 🚀 Flexibac – Simulation Multi-Agent avec MBSE
+🌐 Available languages: [English](README.md) | [Français](README.fr.md)
+
+# 🚀 Flexibac – Multi-Agent Simulation with MBSE
+
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
+![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**🎯 Objectif :** Optimiser un système de tri postal avec un robot 6 axes (Concours IMIC’25).  
-**🛠 Technologies :** AnyLogic • MBSE (Model-Based Systems Engineering)  
-**👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 Université de Lorraine – Master Ingénierie des Systèmes Complexes**
-
----
-
-## ✨ Aperçu rapide
-- 📦 Simulation **multi-agents** : Robot, opérateurs humains, chariots.  
-- ⚡ Gestion dynamique des flux entre ressources humaines et robotisées.  
-- 📊 Résultats initiaux : **25,8 %** de tri robotisé (objectif industriel : 50 %).  
-- 🔎 Points à améliorer : pertes liées aux chariots saturés, optimisation des destinations.  
+**🎯 Goal:** Optimize a postal sorting system with a 6-axis robot (IMIC’25 Challenge).  
+**🛠 Technologies:** AnyLogic • MBSE (Model-Based Systems Engineering)  
+**👥 Authors:** Jules Terlez • Abdessamad Boungab • William Derigent  
+**🏫 University of Lorraine – Master of Complex Systems Engineering**
 
 ---
 
-## 📷 Visuels
-![Schéma système](assets/flexibac-diagram.png)  
-*Architecture et PFMS du système Flexibac*  
+## ✨ Quick Overview
+- 📦 **Multi-agent simulation**: Robot, human operators, carts.  
+- ⚡ Dynamic management of flows between human and robotic resources.  
+- 📊 Initial results: **25.8%** of boxes sorted automatically (industrial target: 50%).  
+- 🔎 Limitations: box losses when carts get saturated, need for improved cart assignment strategy.  
 
 ---
 
-## 🚀 Lancer la simulation
-1. Installer **AnyLogic (version utilisée : préciser ici)**  
-2. Ouvrir le modèle :  
+## 📷 Visuals
+![System diagram](assets/flexibac-diagram.png)  
+*PFMS & system architecture of the Flexibac problem*  
+
+---
+
+## 🚀 How to Run the Simulation
+1. Install **AnyLogic (version used: specify here)**  
+2. Open the model file:  
    ```bash
    /models/Flexibac.alp
