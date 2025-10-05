@@ -1,6 +1,5 @@
 # 🚀 Flexibac – Simulation Multi-Agent avec MBSE
-
-![Projet universitaire : Université de Lorraine](https://fr.m.wikipedia.org/wiki/Fichier:Logo_Universit%C3%A9_de_Lorraine.svg)
+![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 
