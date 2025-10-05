@@ -31,3 +31,32 @@
 2. Ouvrir le modèle :  
    ```bash
    /models/Flexibac.alp
+3. Lancer ▶ et observer les résultats (statistiques affichées en fin de simulation).
+
+---
+
+## 📂 Organisation du dépôt
+
+- /models → fichiers AnyLogic
+- /src → code auxiliaire (agents, fonctions, scripts)
+- /docs → 📄 Rapport complet (PDF)
+- /assets → images & diagrammes SysML
+- /results → exports de simulation
+
+---
+
+## 🔮 Améliorations prévues
+
+- ✅ Optimiser la stratégie de gestion des chariots
+- ✅ Tester sur plusieurs instances (au-delà de Nc_5_50_10_1)
+- ✅ Réduire le nombre de boîtes perdues
+- 🔄 Comparer avec d’autres approches (heuristiques, optimisation mathématique)
+
+---
+
+## 🙌 Remerciements
+
+- Projet réalisé dans le cadre du Concours IMIC’25 avec le soutien de :
+- Université de Lorraine
+- CRAN, CNRS UMR 7039
+- Collaboration industrielle avec La Poste & Université de Nantes
