@@ -1,14 +1,15 @@
-# 🚀 Flexibac – Simulation Multi-Agent avec MBSE
+# 🧠 Flexibac – Simulation Multi-Agent avec MBSE
 
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**🎯 Objectif :** Optimiser un système de tri postal avec un robot 6 axes (Concours IMIC’25).  
+**💡 Contexte :** Concours IMIC'25   
+**🎯 Objectif :** Intégrer un robot 6 axes à un système de tri postal (Concours IMIC’25)  
 **🛠 Technologies :** AnyLogic • MBSE (Model-Based Systems Engineering)  
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 Université de Lorraine – Master Ingénierie des Systèmes Complexes**
+**🏫 Université de Lorraine** – Master Ingénierie des Systèmes Complexes - projet universitaire
 
 ---
 
