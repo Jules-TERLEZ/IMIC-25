@@ -1,5 +1,10 @@
 # 🚀 Flexibac – Simulation Multi-Agent avec MBSE
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
+![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
+![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
+
 **🎯 Objectif :** Optimiser un système de tri postal avec un robot 6 axes (Concours IMIC’25).  
 **🛠 Technologies :** AnyLogic • MBSE (Model-Based Systems Engineering)  
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
