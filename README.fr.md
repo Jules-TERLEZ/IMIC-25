@@ -5,24 +5,23 @@
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**💡 Contexte :** Concours IMIC'25   
-**🎯 Objectif :** Intégrer un robot 6 axes à un système de tri postal (Concours IMIC’25)  
-**🛠 Technologies :** AnyLogic • MBSE (Model-Based Systems Engineering)  
+**💡 Contexte :** Concours IMIC'25 : le problème Flexibac    
+**🎯 Objectif :** Intégrer un robot 6 axes à un système de tri postal  
+**🛠 Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 Université de Lorraine** – Master Ingénierie des Systèmes Complexes - projet universitaire
+**🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes
 
 ---
 
 ## ✨ Aperçu rapide
-- 📦 Simulation **multi-agents** : Robot, opérateurs humains, chariots.  
-- ⚡ Gestion dynamique des flux entre ressources humaines et robotisées.  
-- 📊 Résultats initiaux : **25,8 %** de tri robotisé (objectif industriel : 50 %).  
-- 🔎 Points à améliorer : pertes liées aux chariots saturés, optimisation des destinations.  
+- 💡 Concours entre 8 universités pour créer un Benchmark [ici](https://hal.science/EC-NANTES/hal-04770839v1)
+- 📦 Simulation **multi-agents** disponible ici.
+![Aperçu simulation Anylogic](Anylogic_screenshot.png)  
 
 ---
 
 ## 📷 Visuels
-![Schéma système](assets/flexibac-diagram.png)  
+![Schéma système](Anylogic_screenshot.png)  
 *Architecture et PFMS du système Flexibac*  
 
 ---
