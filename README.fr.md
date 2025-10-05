@@ -14,7 +14,7 @@
 ---
 
 ## ✨ Aperçu rapide
-- 💡 Concours entre 8 universités pour créer un Benchmark [ici](https://hal.science/EC-NANTES/hal-04770839v1)
+- 💡 Concours entre 8 universités pour créer un [Benchmark](documents/IMIC_Presentation.pdf)
 - 📦 Simulation **multi-agents** disponible ici.
 ![Aperçu simulation Anylogic](Anylogic_screenshot.png)  
 
