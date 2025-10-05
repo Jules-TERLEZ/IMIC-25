@@ -58,7 +58,7 @@
 
 ## 🙌 Acknowledgments
 
-- Developed for the IMIC’25 Challenge, with support from:
+Developed for the IMIC’25 Challenge, with support from:
 - University of Lorraine
 - CRAN, CNRS UMR 7039
 - Industrial collaboration with La Poste & University of Nantes
