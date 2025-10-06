@@ -14,9 +14,9 @@
 ---
 
 ## ✨ Aperçu rapide
-- 💡 Concours entre 8 universités pour créer un [Benchmark](https://hal.science/EC-NANTES/hal-04770839v1)
+- 💡 [Concours](https://hal.science/EC-NANTES/hal-04770839v1) entre 8 universités pour créer un [Benchmark](https://github.com/GIS-S-mart/Benchmark-9-IMIC)
 - 📦 Simulation **multi-agents** disponible ici.
-![Aperçu simulation Anylogic](Anylogic_screenshot.png)  
+![Aperçu simulation Anylogic](documents/Anylogic_screenshot.png)  
 
 ---
 
