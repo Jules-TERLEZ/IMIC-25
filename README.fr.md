@@ -15,6 +15,7 @@
 ---
 
 ## ✨ Aperçu rapide
+
 - 💡 **IMIC (International Manufacturing International Contest) : [Concours annuel international](https://hal.science/EC-NANTES/hal-04770839v1)** pour créer un **Benchmark**.  
   En **2025**, le problème posé est : **[Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
 <details>
@@ -26,12 +27,6 @@
   > 3. La **meilleure solution** est retenue comme **référence** pour ce problème.  
   > 4. Un **article scientifique** présentant cette solution est publié.
 ---
-<p align="center">
-    <img src="documents/images/Topology.png" width="600"><br>
-    <em>Schéma du système de tri pour le problème Flexibac</em>
-  </p>
-
-</details>
     
 - 🎯 **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
       1. Aiguiller les cartons vers le robot ou vers les opérateurs  
@@ -51,7 +46,12 @@
 ---
 
 ## 📷 Visuels
+<p align="center">
+    <img src="documents/images/Topology.png" width="600"><br>
+    <em>Schéma du système de tri pour le problème Flexibac</em>
+  </p>
 
+</details>
 
 ---
 
