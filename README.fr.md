@@ -1,4 +1,4 @@
-# 🧠 Flexibac – Simulation Multi-Agent avec MBSE
+# Flexibac – Simulation Multi-Agent avec MBSE
 
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
@@ -6,15 +6,16 @@
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
 **💡 Contexte :** Concours IMIC'25 : Flexibac    
-**🎯 Objectif :** Proposer une solution d'intégration d'un robot 6 axes à un système de tri postal  
+**🎯 Objectif :** Proposer une solution pour intégrer un robot 6 axes à un système de tri postal  
 **🛠 Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes
+**🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
+**🥈 Résultat :** 2ème meilleure solution  
 
 ---
 
 ## ✨ Aperçu rapide
-- 💡 **IMIC (International Manufacturing International Contest)** : [Concours annuel](https://hal.science/EC-NANTES/hal-04770839v1) entre universités/écoles pour créer un Benchmark.
+- 💡 **IMIC (International Manufacturing International Contest)** : [Concours annuel](https://hal.science/EC-NANTES/hal-04770839v1) entre universités/écoles pour créer un Benchmark.  
   Concours **IMIC 2025 : [Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> Intégrer un robot 6 axes au système de tri de la Poste de Nantes
   ![Schéma système de tri](documents/images/Topology.png)
   
