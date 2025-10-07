@@ -6,7 +6,7 @@
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
 **💡 Contexte :** Concours IMIC'25 : Flexibac    
-**🎯 Objectif :** Intégrer un robot 6 axes à un système de tri postal  
+**🎯 Objectif :** Proposer une solution d'intégration d'un robot 6 axes à un système de tri postal  
 **🛠 Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
 **🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes
@@ -16,16 +16,25 @@
 ## ✨ Aperçu rapide
 - 💡 **IMIC (International Manufacturing International Contest)** : [Concours annuel](https://hal.science/EC-NANTES/hal-04770839v1) entre universités/écoles pour créer un Benchmark.
   Concours **IMIC 2025 : [Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> Intégrer un robot 6 axes au système de tri de la Poste de Nantes
-  ![Schéma système de tri](documents/images/Topology.png)  
+  ![Schéma système de tri](documents/images/Topology.png)
+  
+    
 - 🎯 **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
-      - Aiguiller les cartons vers le robot ou vers les opérateurs  
-      - Gérer les chariots  
+      1. Aiguiller les cartons vers le robot ou vers les opérateurs  
+      2. Gérer les chariots
+    
+- 🛠 **Conception de la solution avec approche MBSE** (Model-Based Systems Engineering) :  
+      1. Ingénierie des Exigences *(définition des exigences, cycle de vie, cas d'utilisation)*  
+      2. Architecture Système *(comportement du système : flux de travail et décisions)*  
+      3. Modélisation du système sur [Anylogic](https://www.anylogic.fr/)
+    
 - 📦 Simulation **multi-agents** disponible ici.
-![Aperçu simulation Anylogic](documents/images/Anylogic_screenshot.png)  
+ 
 
 ---
 
 ## 📷 Visuels
+![Aperçu simulation Anylogic](documents/images/Anylogic_screenshot.png) 
 ![Schéma système](Anylogic_screenshot.png)  
 *Architecture et PFMS du système Flexibac*  
 
