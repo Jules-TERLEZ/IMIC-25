@@ -5,7 +5,7 @@
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**💡 Contexte :** Concours IMIC'25 : le problème Flexibac    
+**💡 Contexte :** Concours IMIC'25 : Flexibac    
 **🎯 Objectif :** Intégrer un robot 6 axes à un système de tri postal  
 **🛠 Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
@@ -14,9 +14,14 @@
 ---
 
 ## ✨ Aperçu rapide
-- 💡 [Concours](https://hal.science/EC-NANTES/hal-04770839v1) entre 8 universités pour créer un [Benchmark](https://github.com/GIS-S-mart/Benchmark-9-IMIC)
+- 💡 **IMIC (International Manufacturing International Contest)** : [Concours annuel](https://hal.science/EC-NANTES/hal-04770839v1) entre universités/écoles pour créer un Benchmark.
+  Concours **IMIC 2025 : [Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> Intégrer un robot 6 axes au système de tri de la Poste de Nantes
+  ![Schéma système de tri](documents/images/Topology.png)  
+- 🎯 **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
+      - Aiguiller les cartons vers le robot ou vers les opérateurs  
+      - Gérer les chariots  
 - 📦 Simulation **multi-agents** disponible ici.
-![Aperçu simulation Anylogic](documents/Anylogic_screenshot.png)  
+![Aperçu simulation Anylogic](documents/images/Anylogic_screenshot.png)  
 
 ---
 
