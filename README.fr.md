@@ -15,10 +15,23 @@
 ---
 
 ## ✨ Aperçu rapide
-- 💡 **IMIC (International Manufacturing International Contest)** : [Concours annuel](https://hal.science/EC-NANTES/hal-04770839v1) entre universités/écoles pour créer un Benchmark.  
-  Concours **IMIC 2025 : [Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> Intégrer un robot 6 axes au système de tri de la Poste de Nantes
-  ![Schéma système de tri](documents/images/Topology.png)
-  
+- 💡 **IMIC (International Manufacturing International Contest) : [Concours annuel international](https://hal.science/EC-NANTES/hal-04770839v1)** pour créer un **Benchmark**.  
+  En **2025**, le problème posé est : **[Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
+<details>
+  <summary>📘 En savoir plus sur le concours IMIC</summary>
+
+  > Chaque année, un problème de production intelligente est posé à plusieurs universités/écoles participantes dans le monde.  
+  > 1. Les universités/écoles participantes **proposent** chacune une **solution**.  
+  > 2. Ces solutions forment ainsi un **Benchmark** pour le problème posé.  
+  > 3. La **meilleure solution** est retenue comme **référence** pour ce problème.  
+  > 4. Un **article scientifique** présentant cette solution est publié.
+---
+<p align="center">
+    <img src="documents/images/Topology.png" width="600"><br>
+    <em>Schéma du système de tri pour le problème Flexibac</em>
+  </p>
+
+</details>
     
 - 🎯 **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
       1. Aiguiller les cartons vers le robot ou vers les opérateurs  
@@ -30,14 +43,15 @@
       3. Modélisation du système sur [Anylogic](https://www.anylogic.fr/)
     
 - 📦 Simulation **multi-agents** disponible ici.
- 
+  <p align="center">
+    <img src="documents/images/Anylogic_screenshot.png" width="800"><br>
+    <em>Aperçu simulation Anylogic</em>
+  </p> 
 
 ---
 
 ## 📷 Visuels
-![Aperçu simulation Anylogic](documents/images/Anylogic_screenshot.png) 
-![Schéma système](Anylogic_screenshot.png)  
-*Architecture et PFMS du système Flexibac*  
+
 
 ---
 
