@@ -27,7 +27,12 @@
   > 3. La **meilleure solution** est retenue comme **référence** pour ce problème.  
   > 4. Un **article scientifique** présentant cette solution est publié.
 ---
-    
+<p align="center">
+    <img src="documents/images/Topology.png" width="600"><br>
+    <em>Schéma du système de tri pour le problème Flexibac</em>
+  </p>
+</details>
+
 - 🎯 **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
       1. Aiguiller les cartons vers le robot ou vers les opérateurs  
       2. Gérer les chariots
@@ -38,22 +43,19 @@
       3. Modélisation du système sur [Anylogic](https://www.anylogic.fr/)
     
 - 📦 Simulation **multi-agents** disponible ici.
-  <p align="center">
+
+---
+
+## 📷 Visuels 
+
+<details>
+  <summary>📘 Aperçu simulation Anylogic</summary>
+<p align="center">
     <img src="documents/images/Anylogic_screenshot.png" width="800"><br>
     <em>Aperçu simulation Anylogic</em>
-  </p> 
-
----
-
-## 📷 Visuels
-<p align="center">
-    <img src="documents/images/Topology.png" width="600"><br>
-    <em>Schéma du système de tri pour le problème Flexibac</em>
   </p>
-
 </details>
 
----
 
 ## 🚀 Lancer la simulation
 1. Installer **AnyLogic (version utilisée : préciser ici)**  
