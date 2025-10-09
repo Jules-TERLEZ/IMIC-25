@@ -20,8 +20,8 @@
 <details>
   <summary>📘 En savoir plus sur le concours IMIC</summary>
 
-  > Chaque année, un problème de production intelligente est posé à plusieurs universités/écoles participantes dans le monde.  
-  > 1. Les universités/écoles participantes **proposent** chacune une **solution**.  
+  > Chaque année, un problème de production intelligente est posé à plusieurs universités participantes dans le monde.  
+  > 1. Les universités participantes **proposent** chacune une **solution**.  
   > 2. Ces solutions forment ainsi un **Benchmark** pour le problème posé.  
   > 3. La **meilleure solution** est retenue comme **référence** pour ce problème.  
   > 4. Un **article scientifique** présentant cette solution est publié.
