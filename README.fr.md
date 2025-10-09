@@ -5,12 +5,11 @@
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**💡 Contexte :** Concours IMIC'25 : Flexibac    
+**💡 Contexte :** Concours IMIC'25 : Flexibac - **🥈 2ème meilleure solution**       
 **🎯 Objectif :** Proposer une solution pour intégrer un robot 6 axes à un système de tri postal  
 **🛠 Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
 **👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
 **🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
-**🥈 Résultat :** 2ème meilleure solution  
 
 ---
 
@@ -40,7 +39,7 @@
 - 🛠 **Conception de la solution avec approche MBSE** (Model-Based Systems Engineering) :  
       1. Ingénierie des Exigences *(définition des exigences, cycle de vie, cas d'utilisation)*  
       2. Architecture Système *(comportement du système : flux de travail et décisions)*  
-      3. Modélisation du système sur [Anylogic](https://www.anylogic.fr/)
+      3. Modélisation du système sur Anylogic
     
 - 📦 Simulation **multi-agents** disponible ici.
 
