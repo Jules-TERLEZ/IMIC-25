@@ -1,6 +1,6 @@
 🌐 Available languages: [English](README.md) | [Français](README.fr.md)
 
-# 🚀 Flexibac – Multi-Agent Simulation with MBSE
+# Flexibac – Multi-Agent Simulation with MBSE approach
 
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
