@@ -1,4 +1,4 @@
-# Flexibac – Simulation Multi-Agent avec MBSE
+# Flexibac – Simulation Multi-Agent avec approche MBSE
 
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
