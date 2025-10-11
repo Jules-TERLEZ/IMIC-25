@@ -18,7 +18,7 @@
 - 💡 **IMIC (International Manufacturing International Contest) : [Concours annuel international](https://hal.science/EC-NANTES/hal-04770839v1)** pour créer un **Benchmark**.  
   En **2025**, le problème posé est : **[Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
 <details>
-  <summary>📘 En savoir plus sur le concours IMIC</summary>
+  <summary>En savoir plus sur le concours IMIC</summary>
 
   > Chaque année, un problème de production intelligente est posé à plusieurs universités participantes dans le monde.  
   > 1. Les universités participantes **proposent** chacune une **solution**.  
@@ -48,7 +48,7 @@
 ## 📷 Visuels 
 
 <details>
-  <summary>📘 Aperçu simulation Anylogic</summary>
+  <summary>Aperçu simulation Anylogic</summary>
 <p align="center">
     <img src="documents/images/Anylogic_screenshot.png" width="800"><br>
     <em>Aperçu simulation Anylogic</em>
