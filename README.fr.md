@@ -37,8 +37,8 @@
       2. Gérer les chariots
     
 - 🛠 **Conception de la solution avec approche MBSE** (Model-Based Systems Engineering) :  
-      1. Ingénierie des Exigences *(définition des exigences, cycle de vie, cas d'utilisation)*  
-      2. Architecture Système *(comportement du système : flux de travail et décisions)*  
+      1. Ingénierie des Exigences  
+      2. Architecture Système  
       3. Modélisation du système sur Anylogic
     
 - 📦 Simulation **multi-agents** disponible ici.
