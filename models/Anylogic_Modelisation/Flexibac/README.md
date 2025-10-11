@@ -1,3 +1,5 @@
+Model based on the instance Nc_5_50_10_1
+
 ## Getting started
 
 1. Download the folder
