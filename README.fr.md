@@ -16,7 +16,7 @@
 ## ✨ Aperçu rapide
 
 - 💡 **IMIC (International Manufacturing International Contest) : [Concours annuel international](https://hal.science/EC-NANTES/hal-04770839v1)** pour créer un **Benchmark**.  
-  En **2025**, dans le cadre de ce concours, le problème posé est : **[Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
+  En **2025**, **dans le cadre de ce concours**, le problème posé est : **[Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
 <details>
   <summary>En savoir plus sur le concours IMIC</summary>
 
