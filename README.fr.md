@@ -27,7 +27,7 @@
   > 4. Un **article scientifique** présentant cette solution est publié.
 ---
 <p align="center">
-    <img src="documents/images/Topology.png" width="600"><br>
+    <img src="assets/images/Topology.png" width="600"><br>
     <em>Schéma du système de tri pour le problème Flexibac</em>
   </p>
 </details>
@@ -50,37 +50,29 @@
 <details>
   <summary>Aperçu simulation Anylogic</summary>
 <p align="center">
-    <img src="documents/images/Anylogic_screenshot.png" width="800"><br>
+    <img src="assets/images/Anylogic_screenshot.png" width="800"><br>
     <em>Aperçu simulation Anylogic</em>
   </p>
 </details>
-
-
-## 🚀 Lancer la simulation
-1. Installer **AnyLogic (version utilisée : préciser ici)**  
-2. Ouvrir le modèle :  
-   ```bash
-   /models/Flexibac.alp
-3. Lancer ▶ et observer les résultats (statistiques affichées en fin de simulation).
 
 ---
 
 ## 📂 Organisation du dépôt
 
-- /models → fichiers AnyLogic
-- /src → code auxiliaire (agents, fonctions, scripts)
-- /docs → 📄 Rapport complet (PDF)
-- /assets → images & diagrammes SysML
-- /results → exports de simulation
+- assets → instances & images  
+- docs → 📄 Rapports complets (PDF)  
+- models → fichiers AnyLogic, Cameo Systems Modeler, Rhapsody
+- results → exports de simulation + rapport final
 
 ---
 
-## 🔮 Améliorations prévues
+## 🚀 Lancer la simulation
 
-- ✅ Optimiser la stratégie de gestion des chariots
-- ✅ Tester sur plusieurs instances (au-delà de Nc_5_50_10_1)
-- ✅ Réduire le nombre de boîtes perdues
-- 🔄 Comparer avec d’autres approches (heuristiques, optimisation mathématique)
+1. Téléchargez le dossier -> models/Anylogic_Modelisation/Flexibac
+2. Téléchargez Anylogic (version 8.9.4 ou supérieure).
+3. Lancez Anylogic.
+4. Ouvrez le fichier Anylogic (Ctrl+O ou Fichier -> Ouvrir) : Flexibac.alp
+5. Exécutez (F5 ou Modèle -> Exécuter).
 
 ---
 
