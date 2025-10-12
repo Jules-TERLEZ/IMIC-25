@@ -13,10 +13,10 @@
 
 ---
 
-## ✨ Aperçu rapide
+## Aperçu rapide
 
-- 💡 **IMIC (International Manufacturing International Contest) : [Concours annuel international](https://hal.science/EC-NANTES/hal-04770839v1)** pour créer un **Benchmark**.  
-  En **2025**, **dans le cadre de ce concours**, le problème posé est : **[Flexibac](https://github.com/GIS-S-mart/Benchmark-9-IMIC)** --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
+- 💡 **IMIC** (International Manufacturing International Contest) est un **concours annuel international**<sup>[1](https://hal.science/EC-NANTES/hal-04770839v1)</sup> pour créer un Benchmark.  
+  En **2025**, dans le cadre de ce concours, le problème posé est : **Flexibac**<sup>[2](https://github.com/GIS-S-mart/Benchmark-9-IMIC)</sup> --> **_Intégrer un robot 6 axes au système de tri de la Poste de Nantes_**
 <details>
   <summary>En savoir plus sur le concours IMIC</summary>
 
@@ -32,7 +32,7 @@
   </p>
 </details>
 
-- 🎯 **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
+- 🎯 Objectif – **Maximiser le nombre de cartons traités par le robot** (ce qui implique) :  
       1. Aiguiller les cartons vers le robot ou vers les opérateurs  
       2. Gérer les chariots
     
@@ -41,7 +41,13 @@
       2. Architecture Système  
       3. Modélisation du système sur Anylogic
     
-- 📦 Simulation **multi-agents** disponible ici.
+- 📦 <ins>Simulation **multi-agents**</ins> disponible **[ici](lien)**
+
+---
+
+## 👇 Document final & Résultat
+- Voir [article scientifique](results/Proposed_Solution.pdf)
+- **2ème meilleure solution** : <ins>prix du jury</ins><sup>[3](lien_vers_certificat)</sup>
 
 ---
 
@@ -75,6 +81,13 @@
 5. Exécutez (F5 ou Modèle -> Exécuter).
 
 ---
+
+## 🔗 Liens
+1. Concours IMIC'25 : [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
+2. Problème Flexibac : [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)
+3. Prix du jury : [lien_vers_certificat](lien_vers_certificat)
+4. Simulation : [lien](lien)
+5. Article scientifique : [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
 ## 🙌 Remerciements
 
