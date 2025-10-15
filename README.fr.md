@@ -89,6 +89,8 @@
 4. Simulation : [lien](lien)
 5. Article scientifique : [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
+---
+
 ## 🙌 Remerciements
 
 Projet réalisé dans le cadre du Concours IMIC’25 avec le soutien de :
