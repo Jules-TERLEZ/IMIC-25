@@ -86,6 +86,26 @@
 
 ---
 
+## 📒 Documentation
+
+The entire design can be found in -> `docs/System_Engineering/“select a language”`   
+You can find the system engineering consisting of :  
+1. The system architecture explanation
+2. The requirements engineering explanation
+
+<details>
+  <summary>System engineering preview</summary>
+  <p align="center">
+    <img src="assets/images/SE_Requirement_Engineering_Preview.png" width="800"><br>
+    <em>Requirement Engineering Preview : PFMS</em>
+                <br> <br>
+    <img src="assets/images/SE_Architecture_System_Preview.png" width="800"><br>
+    <em>Architecture System Preview : Routings bins (robot/humans)</em>
+  </p>
+</details>
+
+---
+
 ## 🔗 Links
 
 1. IMIC'25 Competition: [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
