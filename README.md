@@ -44,7 +44,7 @@
   2. System Architecture  
   3. System Modeling in AnyLogic
 
-📦 <ins>Multi-agent simulation</ins> available **[here](link)**
+📦 <strong><ins>Multi-agent simulation</ins></strong> available **[here](link)**
 
 ---
 
