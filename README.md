@@ -35,7 +35,7 @@
   </p>
 </details>
 
-🎯 Goal – **Maximize the number of parcels processed by the robot**, which involves:  
+🎯 Goal – **Maximize the number of boxes processed by the robot**, which involves:  
   1. Routing parcels to the robot or to human operators  
   2. Managing trolleys
 
