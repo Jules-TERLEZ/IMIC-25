@@ -1,64 +1,106 @@
 🌐 Available languages: [English](README.md) | [Français](README.fr.md)
 
-# Flexibac – Multi-Agent Simulation with MBSE approach
+# Flexibac – Multi-Agent Simulation with MBSE Approach
 
-![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
+![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![AnyLogic](https://img.shields.io/badge/Simulation-AnyLogic-blue.svg)
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**🎯 Goal:** Optimize a postal sorting system with a 6-axis robot (IMIC’25 Challenge).  
-**🛠 Technologies:** AnyLogic • MBSE (Model-Based Systems Engineering)  
+**💡 Context:** IMIC'25 Competition: Flexibac – **🥈 2nd Best Solution**  
+**🎯 Objective:** Propose a solution to integrate a 6-axis robot into a postal sorting system  
+**🛠 Technologies:** AnyLogic • Cameo Systems Modeler • Rhapsody  
 **👥 Authors:** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 University of Lorraine – Master of Complex Systems Engineering**
+**🏫 Université de Lorraine** – Academic Project – Master’s in Complex Systems Engineering  
 
 ---
 
-## ✨ Quick Overview
-- 📦 **Multi-agent simulation**: Robot, human operators, carts.  
-- ⚡ Dynamic management of flows between human and robotic resources.  
-- 📊 Initial results: **25.8%** of boxes sorted automatically (industrial target: 50%).  
-- 🔎 Limitations: box losses when carts get saturated, need for improved cart assignment strategy.  
+## Quick Overview
+
+💡 **IMIC** (International Manufacturing International Contest) is an **annual international competition**<sup>[1](https://hal.science/EC-NANTES/hal-04770839v1)</sup> aimed at creating a benchmark.  
+  In **2025**, the proposed challenge was: **Flexibac**<sup>[2](https://github.com/GIS-S-mart/Benchmark-9-IMIC)</sup> --> **_Integrating a 6-axis robot into the Nantes postal sorting system_**
+
+<details>
+  <summary>More about the IMIC competition</summary>
+
+  > Each year, a smart manufacturing problem is presented to participating universities worldwide.  
+  > 1. Each university **proposes** a **solution**.  
+  > 2. These solutions form a **benchmark** for the given problem.  
+  > 3. The **best solution** is selected as the **reference**.  
+  > 4. A **scientific paper** describing this solution is published.
+  ---
+  <p align="center">
+    <img src="assets/images/Topology.png" width="600"><br>
+    <em>Sorting system schematic – Flexibac problem</em>
+  </p>
+</details>
+
+🎯 Goal – **Maximize the number of parcels processed by the robot**, which involves:  
+  1. Routing parcels to the robot or to human operators  
+  2. Managing trolleys
+
+🛠 **Solution designed using an MBSE approach** (Model-Based Systems Engineering):  
+  1. Requirements Engineering  
+  2. System Architecture  
+  3. System Modeling in AnyLogic
+
+📦 <ins>Multi-agent simulation</ins> available **[here](link)**
+
+---
+
+## 👇 Final Report & Result
+
+- See [scientific paper](results/Proposed_Solution.pdf)  
+- **2nd Best Solution**: <ins>Jury Award</ins><sup>[3](link_to_certificate)</sup>
 
 ---
 
 ## 📷 Visuals
-![System diagram](assets/flexibac-diagram.png)  
-*PFMS & system architecture of the Flexibac problem*  
 
----
+<details>
+  <summary>AnyLogic Simulation Preview</summary>
+  <p align="center">
+    <img src="assets/images/Anylogic_screenshot.png" width="800"><br>
+    <em>AnyLogic simulation preview</em>
+  </p>
+</details>
 
-## 🚀 How to Run the Simulation
-1. Install **AnyLogic (version used: specify here)**  
-2. Open the model file:  
-   ```bash
-   /models/Flexibac.alp
-3. Run ▶ and observe the simulation results (statistics displayed at the end).
-   
 ---
 
 ## 📂 Repository Structure
 
-- /models → AnyLogic models
-- /src → auxiliary code (agents, functions, scripts)
-- /docs → 📄 Full Report (PDF)
-- /assets → images & SysML diagrams
-- /results → simulation outputs
+- `assets` → instances & images  
+- `docs` → 📄 Full reports (PDF)  
+- `models` → AnyLogic, Cameo Systems Modeler, and Rhapsody files  
+- `results` → simulation exports + final report
 
 ---
 
-## 🔮 Future Improvements
+## 🚀 Running the Simulation
 
-- ✅ Optimize cart management strategy
-- ✅ Test on more instances (beyond Nc_5_50_10_1)
-- ✅ Reduce lost boxes during simulation
-- 🔄 Compare with alternative approaches (heuristics, optimization methods)
+1. Download the folder: `models/Anylogic_Modelisation/Flexibac`  
+2. Install AnyLogic (version 8.9.4 or higher)  
+3. Launch AnyLogic  
+4. Open the AnyLogic file (`Ctrl+O` or File → Open): `Flexibac.alp`  
+5. Run the simulation (`F5` or Model → Run)
+
+---
+
+## 🔗 Links
+
+1. IMIC'25 Competition: [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
+2. Flexibac Problem: [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)  
+3. Jury Award: [link_to_certificate](link_to_certificate)  
+4. Simulation: [link](link)  
+5. Scientific Paper: [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
 ---
 
 ## 🙌 Acknowledgments
 
-Developed for the IMIC’25 Challenge, with support from:
-- University of Lorraine
-- CRAN, CNRS UMR 7039
-- Industrial collaboration with La Poste & University of Nantes
+This project was developed as part of the IMIC’25 Competition with the support of:
+
+- Université de Lorraine  
+- CRAN, CNRS UMR 7039  
+- Industrial collaboration with La Poste & Université de Nantes
+
