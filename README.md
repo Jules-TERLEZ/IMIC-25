@@ -69,10 +69,10 @@
 
 ## 📂 Repository Structure
 
-- `assets` → instances & images  
-- `docs` → 📄 Full reports (PDF)  
+- `assets` → instances & images   
 - `models` → AnyLogic, Cameo Systems Modeler, and Rhapsody files  
 - `results` → simulation exports + final report
+- `system_engineering` → 📄 Full reports (PDF)
   
 ---
 
