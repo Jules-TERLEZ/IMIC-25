@@ -65,10 +65,10 @@
 
 ## 📂 Organisation du dépôt
 
-- assets → instances & images  
-- docs → 📄 Rapports complets (PDF)  
-- models → fichiers AnyLogic, Cameo Systems Modeler, Rhapsody
-- results → exports de simulation + rapport final
+- `assets` → instances & images  
+- `models` → fichiers AnyLogic, Cameo Systems Modeler, Rhapsody
+- `results` → exports de simulation + rapport final
+- `system_engineering` → 📄 Rapports complets (PDF)
 
 ---
 
