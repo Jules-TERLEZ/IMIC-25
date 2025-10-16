@@ -78,7 +78,7 @@
 
 ## 📒 Documentation
 
-The entire design can be found in -> `docs/System_Engineering/“select a language”`   
+The entire design can be found in -> `system_engineering/“select a language”`   
 You can find the system engineering consisting of :  
 1. The system architecture explanation
 2. The requirements engineering explanation
