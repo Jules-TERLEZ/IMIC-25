@@ -68,7 +68,7 @@
 - `assets` → instances & images  
 - `models` → fichiers AnyLogic, Cameo Systems Modeler, Rhapsody
 - `results` → exports de simulation + rapport final
-- `system_engineering` → 📄 Rapports complets (PDF)
+- `system_engineering` → 📄 Rapports complets expliqués (PDF)
 
 ---
 
