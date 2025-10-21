@@ -41,7 +41,7 @@
       2. Architecture Système  
       3. Modélisation du système sur Anylogic
     
-- 📦 <ins>Simulation **multi-agents**</ins> disponible **[ici](lien)**
+- 📦 <ins>**Simulation multi-agents**</ins> disponible **[ici](lien)**
 
 ---
 
