@@ -51,7 +51,7 @@
 ## 👇 Final Report & Result
 
 - See [scientific paper](results/Proposed_Solution.pdf)  
-- **2nd Best Solution**: <ins>Jury Award</ins><sup>[3](link_to_certificate)</sup>
+- **2nd Best Solution**: <ins>Jury Award</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
 
 ---
 
@@ -110,7 +110,7 @@ You can find the system engineering consisting of :
 
 1. IMIC'25 Competition: [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
 2. Flexibac Problem: [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)  
-3. Jury Award: [link_to_certificate](link_to_certificate)  
+3. Jury Award: [link_to_certificate](assets/images/Jury_Prize_Flexibac.pdf)  
 4. Simulation: [link](link)  
 5. Scientific Paper: [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
