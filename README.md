@@ -100,7 +100,7 @@ You can find the system engineering consisting of :
     <em>Requirement Engineering Preview : PFMS</em>
                 <br> <br>
     <img src="assets/images/SE_Architecture_System_Preview.png" width="800"><br>
-    <em>Architecture System Preview : Routings bins (robot/humans)</em>
+    <em>Architecture System Preview : Routings boxes (robot/humans)</em>
   </p>
 </details>
 
