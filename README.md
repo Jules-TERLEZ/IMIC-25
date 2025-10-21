@@ -17,8 +17,8 @@
 
 ## Quick Overview
 
-💡 **IMIC** (International Manufacturing International Contest) is an **annual international competition**<sup>[1](https://hal.science/EC-NANTES/hal-04770839v1)</sup> aimed at creating a benchmark.  
-  In **2025**, the proposed challenge was: **Flexibac**<sup>[2](https://github.com/GIS-S-mart/Benchmark-9-IMIC)</sup> --> **_Integrating a 6-axis robot into the Nantes postal sorting system_**
+💡 **Context** – IMIC (International Manufacturing International Contest) is an annual international competition<sup>[1](https://hal.science/EC-NANTES/hal-04770839v1)</sup> aimed at creating a benchmark.  
+  In 2025, the proposed challenge was: **Flexibac**<sup>[2](https://github.com/GIS-S-mart/Benchmark-9-IMIC)</sup> --> <ins>Integrating a 6-axis robot into the Nantes postal sorting system</ins>
 
 <details>
   <summary>More about the IMIC competition</summary>
@@ -35,11 +35,11 @@
   </p>
 </details>
 
-🎯 Goal – **Maximize the number of boxes processed by the robot**, which involves:  
-  1. Routing parcels to the robot or to human operators  
-  2. Managing trolleys
+🎯 **Goal** – Maximize the number of boxes processed by the robot, which involves:  
+  1. Routing boxes to the robot or to human operators  
+  2. Managing carts
 
-🛠 **Solution designed using an MBSE approach** (Model-Based Systems Engineering):  
+🛠 **Design** of the solution with an MBSE approach (Model-Based Systems Engineering):  
   1. Requirements Engineering  
   2. System Architecture  
   3. System Modeling in AnyLogic
@@ -51,7 +51,7 @@
 ## 👇 Final Report & Result
 
 - See [scientific paper](results/Proposed_Solution.pdf)  
-- **2nd Best Solution**: <ins>Jury Award</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
+- 2nd Best Solution: <ins>Jury Award</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
 
 ---
 
@@ -110,7 +110,7 @@ You can find the system engineering consisting of :
 
 1. IMIC'25 Competition: [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
 2. Flexibac Problem: [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)  
-3. Jury Award: [link_to_certificate](assets/images/Jury_Prize_Flexibac.pdf)  
+3. Jury Award: [assets/images/Jury_Prize_Flexibac.pdf](assets/images/Jury_Prize_Flexibac.pdf)  
 4. Simulation: [link](link)  
 5. Scientific Paper: [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
