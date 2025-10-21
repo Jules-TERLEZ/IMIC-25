@@ -73,7 +73,17 @@
 - `models` → AnyLogic, Cameo Systems Modeler, and Rhapsody files  
 - `results` → simulation exports + final report
 - `system_engineering` → 📄 Full explained reports (PDF)
-  
+
+  ---
+
+## 🚀 Running the Simulation
+
+1. Download the folder: `models/Anylogic_Modelisation/Flexibac`  
+2. Install AnyLogic (version 8.9.4 or higher)  
+3. Launch AnyLogic  
+4. Open the AnyLogic file (`Ctrl+O` or File → Open): `Flexibac.alp`  
+5. Run the simulation (`F5` or Model → Run)
+
 ---
 
 ## 📒 Documentation
@@ -93,16 +103,6 @@ You can find the system engineering consisting of :
     <em>Architecture System Preview : Routings bins (robot/humans)</em>
   </p>
 </details>
-
----
-
-## 🚀 Running the Simulation
-
-1. Download the folder: `models/Anylogic_Modelisation/Flexibac`  
-2. Install AnyLogic (version 8.9.4 or higher)  
-3. Launch AnyLogic  
-4. Open the AnyLogic file (`Ctrl+O` or File → Open): `Flexibac.alp`  
-5. Run the simulation (`F5` or Model → Run)
 
 ---
 
