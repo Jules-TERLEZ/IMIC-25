@@ -71,6 +71,16 @@
 - `system_engineering` → 📄 Rapports complets expliqués (PDF)
 
 ---
+## 📒 Documentation
+
+Toute la conception du projet dans -> `system_engineering/“select a language”`  
+Vous y trouverez l’ingénierie système composée de :  
+1. L’explication de l’architecture du système  
+2. L’explication de l’ingénierie des exigences  
+
+<details> <summary>Aperçu de l’ingénierie système</summary> <p align="center"> <img src="assets/images/SE_Requirement_Engineering_Preview.png" width="800"><br> <em>Aperçu de l’ingénierie des exigences : PFMS</em> <br> <br> <img src="assets/images/SE_Architecture_System_Preview.png" width="800"><br> <em>Aperçu de l’architecture système : Routage des cartons (robot/humains)</em> </p> </details>
+
+---
 
 ## 🚀 Lancer la simulation
 
