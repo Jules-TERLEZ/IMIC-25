@@ -47,7 +47,7 @@
 
 ## 👇 Document final & Résultat
 - Voir [article scientifique](results/Proposed_Solution.pdf)
-- **2ème meilleure solution** : <ins>prix du jury</ins><sup>[3](lien_vers_certificat)</sup>
+- **2ème meilleure solution** : <ins>prix du jury</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
 
 ---
 
@@ -85,7 +85,7 @@
 ## 🔗 Liens
 1. Concours IMIC'25 : [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
 2. Problème Flexibac : [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)
-3. Prix du jury : [lien_vers_certificat](lien_vers_certificat)
+3. Prix du jury : [lien_vers_certificat](assets/images/Jury_Prize_Flexibac.pdf)
 4. Simulation : [lien](lien)
 5. Article scientifique : [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
