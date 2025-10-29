@@ -44,7 +44,7 @@
   2. System Architecture  
   3. System Modeling in AnyLogic
 
-📦 <strong><ins>Multi-agent simulation</ins></strong> available **[here](link)**
+<!--📦 <strong><ins>Multi-agent simulation</ins></strong> available **[here](link)**-->
 
 ---
 
@@ -111,7 +111,7 @@ You can find the system engineering consisting of :
 1. IMIC'25 Competition: [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
 2. Flexibac Problem: [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)  
 3. Jury Award: [assets/images/Jury_Prize_Flexibac.pdf](assets/images/Jury_Prize_Flexibac.pdf)  
-4. Simulation: [link](link)  
+<!--4. Simulation: [link](link)-->  
 5. Scientific Paper: [results/Proposed_Solution.pdf](results/Proposed_Solution.pdf)
 
 ---
