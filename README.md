@@ -44,18 +44,27 @@
   2. System Architecture  
   3. System Modeling in AnyLogic
 
-📦 <strong><ins>Multi-agent simulation</ins></strong> available **[here](link)**
-
 ---
+
+## Project Demonstration
+
+You can watch the demonstration video with a single click below:
+
+[![Watch the demo](https://youtu.be/ZyXq4wwzGb4)](https://youtu.be/ZyXq4wwzGb4)
+
+Click on the image to open the YouTube video. 
+
+<!---
 
 ## Final Report & Result
 
 - See [scientific paper](results/Proposed_Solution.pdf)  
 - 2nd Best Solution: <ins>Jury Award</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
+-->
 
 ---
 
-## 📷 Visuals
+## Visuals
 
 <details>
   <summary>AnyLogic Simulation Preview</summary>
