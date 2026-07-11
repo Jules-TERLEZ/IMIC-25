@@ -50,7 +50,7 @@
 
 You can watch the demonstration video with a single click below:
 
-[![Watch the demo](https://youtu.be/ZyXq4wwzGb4)](https://youtu.be/ZyXq4wwzGb4)
+[![Watch the demo](https://img.youtube.com/vi/ZyXq4wwzGb4/maxresdefault.jpg)](https://youtu.be/ZyXq4wwzGb4)
 
 Click on the image to open the YouTube video. 
 
