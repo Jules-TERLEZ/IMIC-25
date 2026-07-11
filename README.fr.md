@@ -5,11 +5,11 @@
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**💡 Contexte :** Concours IMIC'25 : Flexibac - **🥈 2ème meilleure solution**       
+**🥈 2ème meilleure solution** Concours IMIC'25 : Flexibac        
 **🎯 Objectif :** Proposer une solution pour intégrer un robot 6 axes à un système de tri postal  
-**🛠 Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
-**👥 Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
+**Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody   
+**Auteurs :** Jules Terlez • Abdessamad Boungab • William Derigent  
+**Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 👇 Document final & Résultat
+## Document final & Résultat
 - Voir [article scientifique](results/Proposed_Solution.pdf)
 - 2ème meilleure solution : <ins>prix du jury</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 📂 Organisation du dépôt
+## Organisation du dépôt
 
 - `assets` → instances & images  
 - `models` → fichiers AnyLogic, Cameo Systems Modeler, Rhapsody
@@ -72,7 +72,7 @@
 
 ---
 
-## 🚀 Lancer la simulation
+## Lancer la simulation
 
 1. Téléchargez le dossier -> models/Anylogic_Modelisation/Flexibac
 2. Téléchargez Anylogic (version 8.9.4 ou supérieure).
@@ -82,7 +82,7 @@
 
 ---
 
-## 📒 Documentation
+## Documentation
 
 Toute la conception du projet dans -> `system_engineering/“select a language”`  
 Vous y trouverez l’ingénierie système composée de :  
@@ -93,7 +93,7 @@ Vous y trouverez l’ingénierie système composée de :
 
 ---
 
-## 🔗 Liens
+## Liens
 1. Concours IMIC'25 : [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
 2. Problème Flexibac : [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)
 3. Prix du jury : [assets/images/Jury_Prize_Flexibac.pdf](assets/images/Jury_Prize_Flexibac.pdf)
@@ -102,7 +102,7 @@ Vous y trouverez l’ingénierie système composée de :
 
 ---
 
-## 🙌 Remerciements
+## Remerciements
 
 Projet réalisé dans le cadre du Concours IMIC’25 avec le soutien de :
 - Université de Lorraine
