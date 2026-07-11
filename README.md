@@ -7,11 +7,11 @@
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**💡 Context:** IMIC'25 Competition: Flexibac – **🥈 2nd Best Solution**  
-**🎯 Objective:** Propose a solution to integrate a 6-axis robot into a postal sorting system  
-**🛠 Technologies:** AnyLogic • Cameo Systems Modeler • Rhapsody  
-**👥 Authors:** Jules Terlez • Abdessamad Boungab • William Derigent  
-**🏫 Université de Lorraine** – Academic Project – Master’s in Complex Systems Engineering  
+**🥈 2nd Best Solution** IMIC'25 Competition: Flexibac  
+**🎯 Objective :** Propose a solution to integrate a 6-axis robot into a postal sorting system  
+**Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody  
+**Authors :** Jules Terlez • Abdessamad Boungab • William Derigent  
+**Université de Lorraine** – Academic Project – Master’s in Complex Systems Engineering  
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 👇 Final Report & Result
+## Final Report & Result
 
 - See [scientific paper](results/Proposed_Solution.pdf)  
 - 2nd Best Solution: <ins>Jury Award</ins><sup>[3](assets/images/Jury_Prize_Flexibac.pdf)</sup>
@@ -67,7 +67,7 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `assets` → instances & images   
 - `models` → AnyLogic, Cameo Systems Modeler, and Rhapsody files  
@@ -76,7 +76,7 @@
 
 ---
 
-## 🚀 Running the Simulation
+## Running the Simulation
 
 1. Download the folder: `models/Anylogic_Modelisation/Flexibac`  
 2. Install AnyLogic (version 8.9.4 or higher)  
@@ -86,7 +86,7 @@
 
 ---
 
-## 📒 Documentation
+## Documentation
 
 The entire design can be found in -> `system_engineering/“select a language”`   
 You can find the system engineering consisting of :  
@@ -106,7 +106,7 @@ You can find the system engineering consisting of :
 
 ---
 
-## 🔗 Links
+## Links
 
 1. IMIC'25 Competition: [https://hal.science/EC-NANTES/hal-04770839v1](https://hal.science/EC-NANTES/hal-04770839v1)  
 2. Flexibac Problem: [https://github.com/GIS-S-mart/Benchmark-9-IMIC](https://github.com/GIS-S-mart/Benchmark-9-IMIC)  
@@ -116,7 +116,7 @@ You can find the system engineering consisting of :
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 This project was developed as part of the IMIC’25 Competition with the support of:
 
