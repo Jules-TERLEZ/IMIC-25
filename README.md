@@ -1,4 +1,4 @@
-🌐 Available languages: [English](README.md) | [Français](README.fr.md)
+Available languages: [English](README.md) | [Français](README.fr.md)
 
 # Flexibac – Optimization of logistics flows using decision-making agents
 
@@ -7,17 +7,15 @@
 ![MBSE](https://img.shields.io/badge/Approach-MBSE-orange.svg)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)
 
-**🥈 2nd Best Solution** IMIC'25 Competition: Flexibac  
-**🎯 Objective :** Propose a solution to integrate a 6-axis robot into a postal sorting system  
+**2nd Best Solution** IMIC'25 Competition: Flexibac  
+**Objective :** Propose a solution to integrate a 6-axis robot into a postal sorting system  
 **Technologies :** AnyLogic • Cameo Systems Modeler • Rhapsody  
-**Authors :** Jules Terlez • Abdessamad Boungab • William Derigent  
-**Université de Lorraine** – Academic Project – Master’s in Complex Systems Engineering  
 
 ---
 
 ## Quick Overview
 
-💡 **Context** – IMIC (International Manufacturing International Contest) is an annual international competition<sup>[1](https://hal.science/EC-NANTES/hal-04770839v1)</sup> aimed at creating a benchmark.  
+**Context** – IMIC (International Manufacturing International Contest) is an annual international competition<sup>[1](https://hal.science/EC-NANTES/hal-04770839v1)</sup> aimed at creating a benchmark.  
   In 2025, the proposed challenge was: **Flexibac**<sup>[2](https://github.com/GIS-S-mart/Benchmark-9-IMIC)</sup> --> <ins>Integrating a 6-axis robot into the Nantes postal sorting system</ins>
 
 <details>
@@ -35,11 +33,11 @@
   </p>
 </details>
 
-🎯 **Goal** – Maximize the number of boxes processed by the robot, which involves:  
+**Goal** – Maximize the number of boxes processed by the robot, which involves:  
   1. Routing boxes to the robot or to human operators  
   2. Managing carts
 
-🛠 **Design** of the solution with an MBSE approach (Model-Based Systems Engineering):  
+**Design** of the solution with an MBSE approach (Model-Based Systems Engineering):  
   1. Requirements Engineering  
   2. System Architecture  
   3. System Modeling in AnyLogic
@@ -81,7 +79,7 @@ Click on the image to open the YouTube video.
 - `assets` → instances & images   
 - `models` → AnyLogic, Cameo Systems Modeler, and Rhapsody files  
 - `results` → simulation exports + final report
-- `system_engineering` → 📄 Full explained reports (PDF)
+- `system_engineering` → Full explained reports (PDF)
 
 ---
 
